@@ -100,7 +100,3 @@ body.wrong {
     font-style: italic;
     font-weight: bold;
     }
-
-.footer p:first-child {
-    border-bottom: 1px dashed black;
-}
